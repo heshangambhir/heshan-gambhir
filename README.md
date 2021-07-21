@@ -1,2 +1,2 @@
 
-<img align="left" width="1000" height="1000" src="https://user-images.githubusercontent.com/64364248/126184865-028018d2-3674-43f2-9443-960fe372ff58.png">
+<img align="left" width="500" height="500" src="https://user-images.githubusercontent.com/64364248/126184865-028018d2-3674-43f2-9443-960fe372ff58.png">
