@@ -1,3 +1,4 @@
+![alt text](https://pbs.twimg.com/profile_banners/1385882334361047041/1644591443/1080x360)
 <h1 align="center">Hi 👋, I'm Heshan Gambhir</h1>
 <h3 align="center">Hello everyone! This is Heshan!!! Welcome to my little corner of the web. I am focused and enthusiastic teenage developer holding keen interest in software development and artificial intelligence. By comprehensive exposure to the underlying concepts and applying them vividly to various projects, my love for these domains came into being. A passionate individual who thrives to build and apply algorithms to solve real-world problems. What can a “full-stack web developer” do, you ask? I can conjure a website from nothing into existence, fully formed. I do not use tricks, nor is this magic. I specialize in manipulating the very fabric of the web, its raw materials of HTML, CSS, JavaScript, and other language of my tech stack.</h3>
 
