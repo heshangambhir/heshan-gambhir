@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on [the website of The PROcessor Podcast](https://open.spotify.com/show/1MVblE5Jyn9k0sVqVOfQhW?si=adafd390de2a4ba0)
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Web 3.0 and working towards it to gain expertise in it**
 
 - 👯 I’m looking to collaborate on **freelance projects with anyone**
 
@@ -18,7 +18,7 @@
 
 - 📝 I regularly write articles on [https://twitter.com/Heshan_Gambhir](https://twitter.com/Heshan_Gambhir)
 
-- 💬 Ask me about **MERN and MEAN stack or any other thing**
+- 💬 Ask me about **HTML/CSS, JavaScript, TypeScript, PHP, MySql, MERN**
 
 - 📫 How to reach me **heshangambhir@gmail.com**
 
