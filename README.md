@@ -1,4 +1,3 @@
-![alt text](https://twitter.com/Heshan_Gambhir/header_photo)
 Hi 👋 My name is Heshan Gambhir
 ===============================
 
