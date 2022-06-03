@@ -13,8 +13,8 @@ Hello everyone! This is Heshan!!! Welcome to my little corner of the web. I am a
 * 🤝  I'm open to collaborating on Freelance and Open Source Projects
 * ⚡  Fun fact I am a graduate from trinity college of music london at the age of 15
 
-<a href="https://www.twitter.com/Heshan_Gambhir" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/Heshan_Gambhir?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
+<a href="https://www.twitter.com/heshangambhir" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitter/follow/heshangambhir?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a><a href="https://www.github.com/heshan-gambhir" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/heshan-gambhir?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
